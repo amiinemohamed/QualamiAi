@@ -1,2 +1,2 @@
 # QualamiAi
-This is a repositiory containing the code for the group project QualamiAi. An embedded systems project with ai integration with the goal to help people wth difficulties to write in arabic .
+This is a repositiory containing the code for the group project QualamiAi. An embedded systems project with ai integration to help people who are having difficulties writing arabic.
